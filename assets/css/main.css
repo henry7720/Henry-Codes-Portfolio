@@ -4343,6 +4343,7 @@ body.landing {
 
 iframe.contact-form {
 	width: 90%;
+	height: 750px;
 }
 
 @media screen and (max-width: 980px) {
