@@ -2468,7 +2468,7 @@ ol li {
 
 ul {
 	list-style: disc;
-	margin: 0 0 2em 0;
+	margin: 0 0 1.25em 0;
 	padding-left: 1em;
 }
 
@@ -4123,7 +4123,7 @@ body.landing {
 /* Banner */
 
 #banner {
-	padding: 8em 0 3em 0;
+	padding: 7em 0 1.5em 0;
 	background-color: #1E2832;
 	color: rgba(255, 255, 255, 0.75);
 	background-attachment: fixed;
@@ -4264,7 +4264,7 @@ body.landing {
 #banner p {
 	color: #fff;
 	font-size: 1.5em;
-	margin-bottom: 1.75em;
+	margin-bottom: 1.25em;
 	/* text-transform: uppercase; */
 }
 
