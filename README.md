@@ -9,4 +9,4 @@ HTML5, CSS3 and JavaScript-capable web browser.
 
 # License
 
-[`MIT`](LICENSE)
+[`GPLv3`](LICENSE)
