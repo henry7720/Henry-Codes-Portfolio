@@ -2008,7 +2008,8 @@ hr {
 
 section.special,
 article.special,
-header.special {
+header.special,
+div.special {
 	text-align: center;
 }
 
@@ -4351,6 +4352,8 @@ body.landing {
 iframe.contact-form {
 	width: 90%;
 	height: 750px;
+	margin: 0;
+	border: 0;
 }
 
 @media screen and (max-width: 980px) {
