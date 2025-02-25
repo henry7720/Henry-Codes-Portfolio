@@ -7,7 +7,7 @@
 
 I am a passionate and diligent college student seeking summer internship opportunities to work in technology. I wish to apply my special interests in cybersecurity, web development, technology consulting, and the Chinese language in the workforce to obtain career skills and provide needed IT services.
 
-### Education
+## Education
 
 **B.S. Computer and Information Science (Specialization: Information & Computational Assurance); Second Major: Chinese**  
 The Ohio State University, Columbus, OH  
@@ -16,7 +16,7 @@ August 2022 - Present
 - Dean's List all 5 semesters (3.94 GPA)
 - Core coursework: Java, C, Web Applications, Data Structures and Algorithms
 
-### Work Experience
+## Work Experience
 <!-- **Student Technician**  
 The Ohio State University, Columbus, OH 
 March 2025 - Present
@@ -31,7 +31,7 @@ June 2023 - August 2023; May 2024 - July 2024
 - Reset and managed office computer systems; provided technical support
 - Managed bookkeeping with Quickbooks and Microsoft Access
 
-### Technical Projects
+## Technical Projects
 
 **[Henry Codes](https://henrycodes.xyz/) (Live-Hosted)**
 [GitHub](https://github.com/henry7720/Henry-Codes-Portfolio), January 2025
