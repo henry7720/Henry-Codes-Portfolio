@@ -9,4 +9,4 @@ HTML5, CSS3 and JavaScript-capable web browser.
 
 # License
 
-[`GPLv3`](LICENSE)
+[`AGPLv3`](LICENSE)
