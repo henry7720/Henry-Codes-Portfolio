@@ -3,7 +3,7 @@
 [henry.trowbridge2@gmail.com](mailto:henry.trowbridge2@gmail.com) | 808-499-9943 |
 [Portfolio](https://henrycodes.xyz/) | [LinkedIn](https://www.linkedin.com/in/henry1679/) | [GitHub](https://github.com/henry7720/) | Columbus, OH / Chicago, IL
 
-## Objective
+## Mission
 
 I am a passionate and diligent college student seeking summer internship opportunities to work in technology. I wish to apply my special interests in cybersecurity, web development, technology consulting, and the Chinese language in the workforce to obtain career skills and provide needed IT services.
 
@@ -14,15 +14,18 @@ The Ohio State University, Columbus, OH
 August 2022 - Present
 
 - Dean's List all 5 semesters (3.94 GPA)
-- Core coursework: Java, C, Web Applications, Data Structures and Algorithms
+- Core technical coursework: Java, C, Web Applications, Data Structures and Algorithms
 
 ## Work Experience
-<!-- **Student Technician**  
-The Ohio State University, Columbus, OH 
+
+**Classroom Support Technician**  
+The Ohio State University, Columbus, OH
 March 2025 - Present
-- Created Excel spreadsheets with advanced formulas for accounting reports  
-- Reset and managed office computer systems; provided technical support  
-- Managed bookkeeping with Quickbooks and Microsoft Access -->
+
+- Helped teach and support faculty working with classroom technology as problems arose
+- Troubleshot and fixed mission-critical classroom tech systems
+- Provided regular technical maintenance on classrooms
+
 **Accounting Intern**
 Jeffrey W. Krol & Associates, Ltd., Chicago, IL
 June 2023 - August 2023; May 2024 - July 2024
@@ -33,27 +36,27 @@ June 2023 - August 2023; May 2024 - July 2024
 
 ## Technical Projects
 
-**[Henry Codes](https://henrycodes.xyz/) (Live-Hosted)**
-[GitHub](https://github.com/henry7720/Henry-Codes-Portfolio), January 2025
+**[Henry Codes](https://henrycodes.xyz/) (Live-Hosted)**: [GitHub](https://github.com/henry7720/Henry-Codes-Portfolio), January 2025
 
-- Self-hosted NGINX web server on Debian 12 with SSH (ED25519) and UFW firewall
+- Self-hosted NGINX web server for personal portfolio on Debian 12 with SSH (ED25519) supported and UFW (firewall)
 - Configured DNS and Cloudflare for PHP instance with DDOS protection
 
-**[OPRF Games](https://games.henrycodes.xyz/) (Live-Hosted)**
-[GitHub](https://github.com/henry7720/OPRF-Games), September 2018 - May 2021; January 2025
+**[OPRF Games](https://games.henrycodes.xyz/) (Live-Hosted)**: [GitHub](https://github.com/henry7720/OPRF-Games), September 2018 - May 2021; January 2025
 
-- Built PHP/JavaScript games site; modernized in 2025 with Ruffle Flash emulator  
+- Built PHP/JavaScript games web site; modernized in 2025 with Ruffle Flash emulator  
 
-**Hack OHI/O 12: AEP Challenge**
-[GitHub](https://github.com/henry7720/AEP-Hack12), October 2024
+**[JS-Calc](https://projects.henrycodes.xyz/js-calc/) (Live-Hosted)**: [GitHub](https://github.com/henry7720/JS-Calc), March 2025
+
+- Interactive web-calculator implemented with a recursive descent parser and a responsive front-end
+
+**Hack OHI/O 12: AEP Challenge**: [GitHub](https://github.com/henry7720/AEP-Hack12), October 2024
 
 - Parsed CSV data with Python (Pandas, Plotly) in a virtual environment
-- Used Meta's Llama 3.2 (local via Ollama) to filter high-risk energy events
+- Used Meta's Llama 3.2 (local via Ollama) to filter high-risk, high-energy events
 
-**Table Tennis Simulator**
-[GitHub](https://github.com/henry7720/Table-Tennis-Simulator), February 2024 - April 2024
+**Table Tennis Simulator**: [GitHub](https://github.com/henry7720/Table-Tennis-Simulator), February 2024 - April 2024
 
-- Built Java OOP model for table tennis game scoring
+- Built Java OOP model for table tennis players of equal skill and realistic scoring
 
 ## Extracurricular Activities
 
@@ -63,14 +66,10 @@ June 2023 - August 2023; May 2024 - July 2024
 
 ## Skills
 
-**Programming Languages**: Java,  C, Ruby, Python (Novice), x86-64 Assembly, SQL (Novice)  
+**Programming Languages**: Java, C, Ruby, Python (Novice), x86-64 Assembly, SQL (Novice)  
 **Web Development**: HTML, CSS, JavaScript, PHP  
 **System Administration & Security**: Linux (Debian, RHEL), FreeBSD (Novice), SSH (OpenSSH), NGINX, UFW, Cloudflare  
-**DevOps & Tools**: Git, Container Development, Podman (Novice)  
+**DevOps & Tools**: Git, Containerized Development, Podman (Novice)  
 **Programming Concepts**: Object-Oriented Programming, Procedural Programming, Data Structures and Algorithms  
-**Professional Skills**: Bookkeeping, Microsoft Excel, Communication, Adaptability
-
-## Languages
-
-- English (fluent)  
-- Chinese (intermediate)  
+**Professional Skills**: Bookkeeping, Microsoft Excel, Communication, Adaptability  
+**Languages**: English (fluent), Chinese (intermediate)
