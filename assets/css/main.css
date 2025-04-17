@@ -2025,6 +2025,10 @@ header h2+p {
 	line-height: 1.85em;
 }
 
+img.debian-logo {
+	padding-top: 0.5em;
+}
+
 p.copy {
 	font-size: 1.25em;
 	line-height: 1.85em;
