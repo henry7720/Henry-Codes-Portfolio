@@ -10,40 +10,40 @@ I am a passionate and diligent college student seeking summer internship opportu
 ## Education
 
 **B.S. Computer and Information Science (Specialization: Information & Computational Assurance); Second Major: Chinese**  
-The Ohio State University, Columbus, OH  
-August 2022 - Present
+The Ohio State University, Columbus, OH:  August 2022 - Present
 
-- Dean's List all 5 semesters (3.94 GPA)
+- Dean's List all 6 completed semesters (3.88 GPA)
 - Core technical coursework: Java, C, Web Applications, Data Structures and Algorithms
 
 ## Work Experience
 
-**Classroom Support Technician**  
-The Ohio State University, Columbus, OH
-March 2025 - Present
+**Undergraduate Research Assistant (Industrial Cybersecurity)** -- RESPONSIBILITIES PENDING OFFICIAL START  
+The Ohio State University, Columbus, OH: May 2025 - Present
 
-- Helped teach and support faculty working with classroom technology as problems arose
+**Classroom and Digital Union Support Technician**  
+The Ohio State University, Columbus, OH: March 2025 - Present
+
+- Helped teach and support faculty and students working with classroom technology as problems arose
 - Troubleshot and fixed mission-critical classroom tech systems
 - Provided regular technical maintenance on classrooms
 
 **Accounting Intern**
-Jeffrey W. Krol & Associates, Ltd., Chicago, IL
-June 2023 - August 2023; May 2024 - July 2024
+Jeffrey W. Krol & Associates, Ltd., Chicago, IL: June 2023 - August 2023; May 2024 - July 2024
 
 - Created Excel spreadsheets with advanced formulas for accounting reports
 - Reset and managed office computer systems; provided technical support
-- Managed bookkeeping with Quickbooks and Microsoft Access
+- Managed bookkeeping tasks with Quickbooks and Microsoft Excel, Access, and Word
 
 ## Technical Projects
 
 **[Henry Codes](https://henrycodes.xyz/) (Live-Hosted)**: [GitHub](https://github.com/henry7720/Henry-Codes-Portfolio), January 2025
 
 - Self-hosted NGINX web server for personal portfolio on Debian 12 with SSH (ED25519) supported and UFW (firewall)
-- Configured DNS and Cloudflare for PHP instance with DDOS protection
+- Configured DNS and PHP instance, with Cloudflare for DDOS protection
 
-**[OPRF Games](https://games.henrycodes.xyz/) (Live-Hosted)**: [GitHub](https://github.com/henry7720/OPRF-Games), September 2018 - May 2021; January 2025
+<!-- **[OPRF Games](https://games.henrycodes.xyz/) (Live-Hosted)**: [GitHub](https://github.com/henry7720/OPRF-Games), September 2018 - May 2021; January 2025
 
-- Built PHP/JavaScript games web site; modernized in 2025 with Ruffle Flash emulator  
+- Built PHP/JavaScript games web site; modernized in 2025 with Ruffle Flash emulator   -->
 
 **[JS-Calc](https://projects.henrycodes.xyz/js-calc/) (Live-Hosted)**: [GitHub](https://github.com/henry7720/JS-Calc), March 2025
 
