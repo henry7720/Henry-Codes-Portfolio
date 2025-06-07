@@ -20,7 +20,7 @@ The Ohio State University, Columbus, OH:  August 2022 - Present
 **Undergraduate Research Assistant (Industrial Cybersecurity)**  
 The Ohio State University's Center for Design and Manufacturing Excellence, Columbus, OH: May 2025 - Present
 
-- Assisted on research projects with real-world applications
+- Assisted research projects with real-world development and team-building
 - Employed Agile development sprints and professional Excel and presentation editing work
 - Helped Ohio small businesses by working on cybersecurity education projects
 
@@ -41,7 +41,7 @@ Jeffrey W. Krol & Associates, Ltd., Chicago, IL: June 2023 - August 2023; May 20
 
 **[Henry Codes](https://henrycodes.xyz/) (Live-Hosted)**: [GitHub](https://github.com/henry7720/Henry-Codes-Portfolio), January 2025
 
-- Self-hosted NGINX web server for personal portfolio on Debian 12 with SSH (ED25519) supported and UFW (firewall)
+- Self-hosted NGINX web server for personal portfolio on Debian 13 with SSH (ED25519) supported and UFW (firewall)
 - Configured DNS and PHP instance, with Cloudflare for DDOS protection
 
 <!-- **[OPRF Games](https://games.henrycodes.xyz/) (Live-Hosted)**: [GitHub](https://github.com/henry7720/OPRF-Games), September 2018 - May 2021; January 2025
@@ -71,8 +71,8 @@ Jeffrey W. Krol & Associates, Ltd., Chicago, IL: June 2023 - August 2023; May 20
 
 **Programming Languages**: Java, C, Ruby, Python, x86-64 Assembly, SQL (Novice)  
 **Web Development**: HTML, CSS, JavaScript, PHP  
-**System Administration & Security**: Linux (Debian, RHEL), FreeBSD (Novice), SSH (OpenSSH), NGINX, UFW, Cloudflare  
-**DevOps & Tools**: Git, Containerized Development, Docker, Podman (Novice)  
+**System Administration & Security**: Linux (Debian, RHEL), SSH (OpenSSH), NGINX, UFW, Cloudflare, FreeBSD (Novice)  
+**DevOps & Tools**: Git, Docker, Podman (Novice), Containerized Development  
 **Programming Concepts**: Object-Oriented Programming, Procedural Programming, Data Structures and Algorithms  
 **Professional Skills**: Bookkeeping, Microsoft Excel, Communication, Adaptability  
 **Languages**: English (fluent), Chinese (intermediate)
