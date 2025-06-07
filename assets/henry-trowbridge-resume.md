@@ -1,6 +1,6 @@
 # [Henry S. Trowbridge](https://henrycodes.xyz/)
 
-[henry.trowbridge2@gmail.com](mailto:henry.trowbridge2@gmail.com) | 808-499-9943 |
+[htrow@henrycodes.xyz](mailto:htrow@henrycodes.xyz) | 808-499-9943 |
 [Portfolio](https://henrycodes.xyz/) | [LinkedIn](https://www.linkedin.com/in/henry1679/) | [GitHub](https://github.com/henry7720/) | Columbus, OH / Chicago, IL
 
 ## Mission
