@@ -17,15 +17,18 @@ The Ohio State University, Columbus, OH:  August 2022 - Present
 
 ## Work Experience
 
-**Undergraduate Research Assistant (Industrial Cybersecurity)** -- RESPONSIBILITIES PENDING OFFICIAL START  
-The Ohio State University, Columbus, OH: May 2025 - Present
+**Undergraduate Research Assistant (Industrial Cybersecurity)**  
+The Ohio State University's Center for Design and Manufacturing Excellence, Columbus, OH: May 2025 - Present
+
+- Assisted on research projects with real-world applications
+- Employed Agile development sprints and professional Excel and presentation editing work
+- Helped Ohio small businesses by working on cybersecurity education projects
 
 **Classroom and Digital Union Support Technician**  
 The Ohio State University, Columbus, OH: March 2025 - Present
 
 - Helped teach and support faculty and students working with classroom technology as problems arose
-- Troubleshot and fixed mission-critical classroom tech systems
-- Provided regular technical maintenance on classrooms
+- Troubleshot and fixed mission-critical classroom tech systems, including regular technical maintenance on classrooms
 
 **Accounting Intern**
 Jeffrey W. Krol & Associates, Ltd., Chicago, IL: June 2023 - August 2023; May 2024 - July 2024
@@ -51,12 +54,12 @@ Jeffrey W. Krol & Associates, Ltd., Chicago, IL: June 2023 - August 2023; May 20
 
 **Hack OHI/O 12: AEP Challenge**: [GitHub](https://github.com/henry7720/AEP-Hack12), October 2024
 
-- Parsed CSV data with Python (Pandas, Plotly) in a virtual environment
+- Analyzed CSV data with Python (Pandas, Plotly) in a virtual environment
 - Used Meta's Llama 3.2 (local via Ollama) to filter high-risk, high-energy events
 
-**Table Tennis Simulator**: [GitHub](https://github.com/henry7720/Table-Tennis-Simulator), February 2024 - April 2024
+<!-- **Table Tennis Simulator**: [GitHub](https://github.com/henry7720/Table-Tennis-Simulator), February 2024 - April 2024
 
-- Built Java OOP model for table tennis players of equal skill and realistic scoring
+- Built Java OOP model for table tennis players of equal skill and realistic scoring -->
 
 ## Extracurricular Activities
 
@@ -66,10 +69,10 @@ Jeffrey W. Krol & Associates, Ltd., Chicago, IL: June 2023 - August 2023; May 20
 
 ## Skills
 
-**Programming Languages**: Java, C, Ruby, Python (Novice), x86-64 Assembly, SQL (Novice)  
+**Programming Languages**: Java, C, Ruby, Python, x86-64 Assembly, SQL (Novice)  
 **Web Development**: HTML, CSS, JavaScript, PHP  
 **System Administration & Security**: Linux (Debian, RHEL), FreeBSD (Novice), SSH (OpenSSH), NGINX, UFW, Cloudflare  
-**DevOps & Tools**: Git, Containerized Development, Podman (Novice)  
+**DevOps & Tools**: Git, Containerized Development, Docker, Podman (Novice)  
 **Programming Concepts**: Object-Oriented Programming, Procedural Programming, Data Structures and Algorithms  
 **Professional Skills**: Bookkeeping, Microsoft Excel, Communication, Adaptability  
 **Languages**: English (fluent), Chinese (intermediate)
