@@ -13,7 +13,7 @@ I am a passionate and diligent college student seeking summer internship opportu
 The Ohio State University, Columbus, OH:  August 2022 - Present
 
 - Dean's List all 7 completed terms (3.88 GPA)
-- Core technical coursework: Java, C, Web Applications, Data Structures and Algorithms
+- Core technical coursework: Java, Operating Systems, Web Applications, Data Structures and Algorithms, Information Security (Mirroring Security+ Certification)
 
 <!-- **High School Diploma**
 Oak Park and River Forest High School, Oak Park, IL
