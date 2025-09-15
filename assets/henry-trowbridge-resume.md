@@ -21,7 +21,7 @@ Oak Park and River Forest High School, Oak Park, IL
 
 ### **Work Experience**
 
-**Software Engineer Intern** | GovRat, Washington, D.C. (Remote) | Sep 2025 - Present
+**Software and Data Engineer Intern** | GovRat, Washington, D.C. (Remote) | Sep 2025 - Present
 
 - Expanded AI training datasets by integrating novel data sources, improving model coverage and diversity
 - Automated data collection and processing to enhance the training pipeline
