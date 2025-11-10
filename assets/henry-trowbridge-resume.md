@@ -36,6 +36,7 @@ The Ohio State University's Center for Design and Manufacturing Excellence, Colu
 - Co-led development of an interactive <!--, 'TurboTax-like'-->web app, improving small-business defense contractors' DoD CMMC 2.0 cybersecurity compliance
 - Developed a full-stack web app using container technologies, a custom database with access controls, and Python APIs for backend functionality; managed with Agile/Scrum and frequent client meetings
 - Ran blockchain (hyperledger fabric) pruning and performance experiments
+<!-- - Enrolled in research security training -->
 <!-- - Worked with professional Excel and professionally edited presentations -->
 <!-- - Helped small manufacturers and defense contractors assess and improve their compliance with the DoD's new CMMC 2.0, level 2 requirements by leading and building an interactive (TurboTax-like) web app -->
 <!-- - Assisted research projects by managing projects and developing software deliverables -- employing Agile development sprints using the scrum methodology -->
