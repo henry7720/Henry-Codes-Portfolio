@@ -12,8 +12,8 @@ Driven Ohio State University student double majoring in Computer Science (Cybers
 **B.S. in Computer and Information Science (Specialization: Information & Computational Assurance); Second Major: Chinese**  
 The Ohio State University, Columbus, OH | Aug 2022 - Dec 2026 (Expected)
 
-- GPA: 3.87 (Dean's List all completed terms)
-- Relevant Coursework: Java, Operating Systems, Web Applications, Data Structures and Algorithms, Information Security (Mirroring Security+ Certification)
+- GPA: 3.84 (Dean's List all completed terms)
+- Relevant Coursework: Java, Operating Systems, Web Applications, Data Structures and Algorithms, Information Security (Mirrored Security+ Certification)
 
 <!-- **High School Diploma**
 Oak Park and River Forest High School, Oak Park, IL
@@ -78,7 +78,7 @@ Jeffrey W. Krol & Associates, Ltd., Chicago, IL | Jun 2023 - Aug 2023; May 2024 
 
 **[Henry Codes - Personal Portfolio](https://henrycodes.xyz/) (Live-Hosted)** | [GitHub](https://github.com/henry7720/Henry-Codes-Portfolio), Jan 2025 - Present
 
-- Designed and self-hosted secure portfolio site (Debian, NGINX, PHP) with Cloudflare DDoS protection, strengthening personal brand and online presence
+- Designed and self-hosted secure portfolio site (Debian, NGINX, PHP) with Cloudflare DDoS protection<!--, strengthening personal brand and online presence -->
 <!-- - Deployed and self-hosted a personal portfolio on a Debian 13 server with NGINX and PHP, secured with a UFW firewall, SSH keys, a Tailscale meshnet, and Cloudflare for DDoS protection -->
 <!-- - Self-hosted NGINX web server for personal portfolio on Debian 13 with SSH (ED25519) in a Tailscale meshnet and UFW (firewall: principle of least privilege)
 - Configured DNS and PHP instance, with Cloudflare for DDOS protection -->
@@ -102,19 +102,20 @@ Jeffrey W. Krol & Associates, Ltd., Chicago, IL | Jun 2023 - Aug 2023; May 2024 
 
 ### **Extracurricular Activities**
 
-**[Vice President](https://activities.osu.edu/involvement/student_organizations/find_a_student_org/?i=2330) (Former President), Buckeye Table Tennis Club** | Columbus, OH, Aug 2022 - Present: Managed club practices and competition preparation  
-**Vice President, Global Learning & Exchange Association** | Columbus, OH, Jun 2025 - Present: Helped organize cultural learning and exchange events  
-**Member, Cybersecurity Club** | Columbus, OH, Nov 2022 - Present: Studied cybersecurity and improved skills with CTFs such as BuckeyeCTF  
+<!-- **Vice President, Global Learning & Exchange Association** | Columbus, OH, Jun 2025 - Present: Helped organize cultural learning and exchange events   -->
+**Vice President, Cybersecurity Club** | Columbus, OH, Nov 2022 - Present: Organized events (BuckeyeCTF, Ohio LinuxFest collab) and meetings<!--; studied cybersecurity  -->  
 **Member, Open Source Software Club** | Columbus, OH, Sep 2024 - Present: Advocated for Linux and open-source tools  
+**Member, History Club** | Columbus, OH, Oct 2022 - Present: Learned history; presented on China  
+**Consulting Member (Former President), Buckeye Table Tennis Club** | Columbus, OH, Aug 2022 - Present: Club consultant
 
 ### **Skills**
 
-| Domain                  | Skills & Technologies                                                                       |
+| Domain                  | Skills and Technologies                                                                     |
 |-------------------------|---------------------------------------------------------------------------------------------|
-| **Backend Development** | Python (FastAPI, SQLAlchemy, Pandas, Plotly, REST APIs), Ruby (Ruby on Rails), Java, C#, C, SQL (PostgreSQL, SQLite)            |
-| **Infrastructure & Security** | Linux (Debian, RHEL), FreeBSD, Docker, Podman, Git, NGINX, SSH, UFW, Cloudflare, Tailscale, Zero Trust, Hyperledger Fabric |
-| **Frontend Development** | HTML, CSS, JavaScript, Jinja                                                                |
-| **Professional** | Agile/Scrum, Client Communication, Technical Documentation, English (Fluent), Mandarin Chinese (Intermediate)      |
+| **Backend Development** | Python (FastAPI, SQLAlchemy, Pandas, Plotly, REST APIs), Ruby (Ruby on Rails), Java, C#, C, SQL (PostgreSQL, SQLite) |
+| **Infrastructure & Security** | Linux (Debian, RHEL), FreeBSD, Docker, Podman, Git, NGINX, SSH, RDP, UFW, Cloudflare, Tailscale, Zero Trust |
+| **Frontend Development** | HTML, CSS, JavaScript, Jinja, NextJS |
+| **Professional** | Agile/Scrum, Client Communication<!--, Project Management-->, Technical Documentation, English (Fluent), Mandarin Chinese (Intermediate) |
 <!-- **Programming Languages**: Java, C, Ruby, Python, SQL (SQLite/PostgreSQL), C#, x86-64 Assembly  
 **Web Development**: HTML, CSS, JavaScript, PHP, FastAPI, Uvicorn, SQLAlchemy, Jinja, Alembic, Ruby on Rails  
 **System Administration & Security**: Linux (Debian/RHEL), SSH, NGINX, UFW, Cloudflare, Tailscale, FreeBSD (Novice), Zero Trust, Firewalls, Computer Networking  
