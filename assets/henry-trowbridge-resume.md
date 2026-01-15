@@ -12,7 +12,7 @@ Driven Ohio State University student double majoring in Computer Science (Cybers
 **B.S. in Computer and Information Science (Specialization: Information & Computational Assurance); Second Major: Chinese**  
 The Ohio State University, Columbus, OH | Aug 2022 - Dec 2026 (Expected)
 
-- GPA: 3.84 (Dean's List all completed terms)
+- GPA: 3.84 (Dean's List all completed terms); Student member of ACM (Member ID: 7641930, [htrowbridge@acm.org](mailto:htrowbridge@acm.org))
 - Relevant Coursework: Java, Operating Systems, Web Applications, Data Structures and Algorithms, Information Security (Mirrored Security+ Certification)
 
 <!-- **High School Diploma**
