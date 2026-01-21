@@ -48,7 +48,7 @@
     <!-- Banner -->
     <section id="banner">
         <img src="/images/henry.jpg" class="profile" alt="Photo of Henry Trowbridge">
-        <h2>Henry S. Trowbridge (喬念唐)</h2>
+        <h2>Henry S. Trowbridge (<span id="GNU">喬念唐</span>)</h2>
         <p>Student / Cybersecurity Research Assistant and Software Developer</p>
         <ul class="actions">
             <li><a href="/assets/henry-trowbridge-resume.pdf" class="button medium special" download>Download Resumé</a>
@@ -124,13 +124,18 @@
                         <img style="height:1.75em;margin-bottom:-5px" src="/images/venmo.png" title="Venmo">
                     </a></li>
             </ul>
-            <p>Henry S. Trowbridge &copy; 2025 | Made with Retrospect by <a href="https://templated.live/">TEMPLATED</a>
+            <p>Henry S. Trowbridge &copy; 2026 | Made with Retrospect by <a href="https://templated.live/">TEMPLATED</a>
             </p>
             <a href="https://www.debian.org/" target="_blank"><img src="/images/debian.jpg" alt="powered by debian"
                     class="debian-logo"></a>
         </div>
     </footer>
     <!-- Scripts -->
+    <script>
+        document.getElementById("GNU").addEventListener("click", function () {
+            window.location.href = "/gnu.html";
+        });
+    </script>
     <script src="/assets/js/jquery.min.js"></script>
     <script src="/assets/js/skel.min.js"></script>
     <script src="/assets/js/util.js"></script>
