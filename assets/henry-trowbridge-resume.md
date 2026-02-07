@@ -1,7 +1,7 @@
-## [Henry S. Trowbridge](https://henrycodes.xyz/) (喬念唐)
+## [Henry S. Trowbridge](https://htrow.dev/) (喬念唐)
 
-[htrow@henrycodes.xyz](mailto:htrow@henrycodes.xyz) | 808-499-9943 |
-[Portfolio Website](https://henrycodes.xyz/) | [LinkedIn](https://www.linkedin.com/in/henry1679/) | [GitHub](https://github.com/henry7720/) | Columbus, OH / Chicago, IL
+[henry@htrow.dev](mailto:henry@htrow.dev) | 808-499-9943 |
+[Portfolio Website](https://htrow.dev/) | [LinkedIn](https://www.linkedin.com/in/henry1679/) | [GitHub](https://github.com/henry7720/) | Columbus, OH / Chicago, IL
 
 <!-- ### **Mission**
 
@@ -69,7 +69,7 @@ Jeffrey W. Krol & Associates, Ltd., Chicago, IL | Jun 2023 - Aug 2023; May 2024 
 
 ### **Technical Projects**
 
-<!-- **[Debian Package Mirror](https://deb.henrycodes.xyz/debian/)**  -->
+<!-- **[Debian Package Mirror](https://deb.htrow.dev/debian/)**  -->
 **Debian Package Mirrors** | Jun 2025 - February 2026
 
 - Deployed Debian mirrors on FreeBSD (and Debian) with NGINX, providing reliable high-throughput package access for users
@@ -77,18 +77,18 @@ Jeffrey W. Krol & Associates, Ltd., Chicago, IL | Jun 2023 - Aug 2023; May 2024 
 <!-- - Deployed and maintained a full Debian package mirror on a FreeBSD 14.3 host, synchronized every 6 hours via a cron job and official ftpsync tooling
 - Optimized NGINX for high-throughput file hosting and managed permissions and fstab mounting for external storage -->
 
-**[Henry Codes - Personal Portfolio](https://henrycodes.xyz/) (Live-Hosted)** | [GitHub](https://github.com/henry7720/Henry-Codes-Portfolio), Jan 2025 - Present
+**[Henry Codes - Personal Portfolio](https://htrow.dev/) (Live-Hosted)** | [GitHub](https://github.com/henry7720/Henry-Codes-Portfolio), Jan 2025 - Present
 
 - Designed and self-hosted secure portfolio site (Debian, NGINX, PHP) with Cloudflare DDoS protection<!--, strengthening personal brand and online presence -->
 <!-- - Deployed and self-hosted a personal portfolio on a Debian 13 server with NGINX and PHP, secured with a UFW firewall, SSH keys, a Tailscale meshnet, and Cloudflare for DDoS protection -->
 <!-- - Self-hosted NGINX web server for personal portfolio on Debian 13 with SSH (ED25519) in a Tailscale meshnet and UFW (firewall: principle of least privilege)
 - Configured DNS and PHP instance, with Cloudflare for DDOS protection -->
 
-<!-- **[OPRF Games](https://games.henrycodes.xyz/) (Live-Hosted)**: [GitHub](https://github.com/henry7720/OPRF-Games), September 2018 - May 2021; January 2025
+<!-- **[OPRF Games](https://games.htrow.dev/) (Live-Hosted)**: [GitHub](https://github.com/henry7720/OPRF-Games), September 2018 - May 2021; January 2025
 
 - Built PHP/JavaScript games web site; modernized in 2025 with Ruffle Flash emulator   -->
 
-<!-- **[JS-Calc](https://projects.henrycodes.xyz/js-calc/) (Live-Hosted)** | [GitHub](https://github.com/henry7720/JS-Calc), Mar 2025
+<!-- **[JS-Calc](https://projects.htrow.dev/js-calc/) (Live-Hosted)** | [GitHub](https://github.com/henry7720/JS-Calc), Mar 2025
 
 - Implemented a web calculator with a recursive descent parser and a responsive UI in vanilla JavaScript -->
 <!-- - Interactive web-calculator implemented with a recursive descent parser and a responsive front-end -->
