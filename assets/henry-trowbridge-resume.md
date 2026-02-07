@@ -69,10 +69,10 @@ Jeffrey W. Krol & Associates, Ltd., Chicago, IL | Jun 2023 - Aug 2023; May 2024 
 
 ### **Technical Projects**
 
-**[Debian Package Mirror](https://deb.henrycodes.xyz/debian/)** | Jun 2025 - Present
+<!-- **[Debian Package Mirror](https://deb.henrycodes.xyz/debian/)**  -->Debian Package Mirror | Jun 2025 - February 2026
 
-- Deployed Debian mirror on FreeBSD with NGINX, providing reliable high-throughput package access for users
-- Automated syncs with official repos, ensuring updated packages with minimal downtime
+- Deployed Debian mirror on FreeBSD and Debian with NGINX, providing reliable high-throughput package access for users
+- Automated syncs with official repos, ensuring updated packages with minimal downtime; may rehost soon
 <!-- - Deployed and maintained a full Debian package mirror on a FreeBSD 14.3 host, synchronized every 6 hours via a cron job and official ftpsync tooling
 - Optimized NGINX for high-throughput file hosting and managed permissions and fstab mounting for external storage -->
 
